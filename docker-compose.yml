@@ -1,0 +1,8 @@
+  
+php:
+  build: .
+  ports:
+    - 8080:80
+  volumes:
+    - ./www:/var/www/html
+  hostname: "uf-node.ml"
