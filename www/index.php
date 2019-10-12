@@ -1,5 +1,6 @@
 <?
 
+die('it kinda works');
 
 $headers = 'From: mail@uf-node.ml' . "\r\n" .
            'Reply-To: mail@uf-node.ml' . "\r\n" .
